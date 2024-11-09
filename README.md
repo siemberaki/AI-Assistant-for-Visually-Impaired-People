@@ -1,3 +1,4 @@
+BY SIEM BERAKI
 # AI-Assistant-for-Visually-Impaired-People
 A machine learning project aimed at assisting visually impaired people through AI-powered voice assistants.
 
